@@ -1,0 +1,21 @@
+[
+  {
+    "mpd_url": "https://d1z78r8i505acl.cloudfront.net/media/T3tcCZi3EW323/5cdad820/stream.mpd"
+  },
+  {
+    "kid": "ba5dad2d35d6553a9486ebe31716ac8b",
+    "hex_key": "d30d079d061ce8def483f892bb4905e3"
+  },
+  {
+    "kid": "3b7ebe5a18035b0f8dce65afe09fe99a",
+    "hex_key": "5dbc2c614d25dc1ace22f81b7cf18d12"
+  },
+  {
+    "kid": "733a2f1ec2f353ce96af6f1acadd4e47",
+    "hex_key": "8ba353f5f2fa70dd873a4b384672398c"
+  },
+  {
+    "kid": "f8b0014ded5e5bca9f128836dfbe394d",
+    "hex_key": "918afcca2f65045294b044ceff5efbc9"
+  }
+]
